@@ -1,0 +1,130 @@
+# math
+radical 0.65
+infinity 0.536842105263
+perpendicular 0.472727272727
+fraction 1.0
+prime 0.989189189189
+twosuperior 1.0
+dotmath 0.875
+periodcentered 0.845360824742
+
+# paired math op
+ceilingleft 1.0
+ceilingright 1.0
+floorleft 1.0
+floorright 1.0
+triangleright 1.0
+triangleleft 1.0
+
+# accent
+latticetop 1.0
+dotaccent 1.0
+tilde 0.705882352941
+circumflex 0.834123222749
+
+# arrow
+arrowleft 0.428571428571
+arrowdblleft 1.0
+arrowdblboth 1.0
+arrowhookleft 1.0
+dblarrowheadright 1.0
+similarequal 1.0
+
+# set
+existential 1.0
+universal 0.829787234043
+propersuperset 1.0
+reflexsuperset 1.0
+intersection 0.869565217391
+union 0.867924528302
+reflexsubset 0.938775510204
+intersectionsq 1.0
+propersubset 0.272727272727
+emptyset 0.6875
+
+# calculus
+gradient 1.0
+integral 1.0
+partialdiff 1.0
+nabla 0.818181818182
+
+# greek
+chi 1.0
+yen 1.0
+zeta 1.0
+iota 1.0
+phi1 1.0
+thorn 1.0
+alpha 0.882037533512
+phi 0.984042553191
+psi 0.982456140351
+omega 0.980769230769
+tau 0.974226804124
+xi 0.95
+theta 0.949704142012
+pi 0.943262411348
+kappa 0.942307692308
+epsilon 0.938053097345
+theta1 0.933333333333
+lambda 0.927419354839
+sigma 0.924444444444
+eta 0.911764705882
+delta 0.902654867257
+beta 0.864754098361
+rho 0.86170212766
+gamma 0.855670103093
+nu 0.830188679245
+sigma1 0.8
+mu 0.815789473684
+epsilon1 0.666666666667
+eth 1.0
+
+Xi 1.0
+Gamma 0.97619047619
+Thorn 0.972222222222
+Delta 0.965277777778
+Pi 0.96511627907
+Sigma 0.951612903226
+Phi 0.950617283951
+Theta 0.933333333333
+Psi 0.904761904762
+Omega 0.9
+Upsilon 0.875
+Lambda 0.869565217391
+
+# big operator
+summation 0.958333333333
+
+# logic
+exclam 0.785714285714
+logicalor 0.944444444444
+logicalnot 0.916666666667
+logicaland 0.827160493827
+
+# binary operation
+plusminus 0.416666666667
+circlemultiply 0.833333333333
+circleplus 0.933333333333
+plus 0.931207004378
+multiply 0.578651685393
+minus 0.7870538415
+
+# scala binary relation
+lessequal 0.843023255814
+equal 0.923820685614
+greaterequal 0.774193548387
+greater 0.80303030303
+approxequal 0.571428571429
+less 0.836909871245
+equivalence 0.692307692308
+notequal 0.666666666667
+similar 0.577777777778
+proportional 1.0
+lessmuch 0.0
+
+# arrow
+arrowdblright 0.823529411765
+arrowup 0.8
+arrowright 0.743421052632
+arrowvertex 1.0
+arrowdown 0.666666666667

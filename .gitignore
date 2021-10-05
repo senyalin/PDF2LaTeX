@@ -1,0 +1,17 @@
+.idea/
+__pycache__/
+synthetic/
+pdfs/
+imgs/
+imgs2/
+saved_models/
+output/
+output_bleu_model/
+output_parser/
+output_py_model/
+output_bleu_model_spellchecker/
+output_tesseract/
+evaluation/
+mon_s_sample/
+*.pt
+*.pyc
